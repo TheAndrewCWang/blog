@@ -39,15 +39,13 @@
 All commands are run from the root of the project, from a terminal:
 
 | Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `pnpm install`         | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-If you want to switch to npm make sure to remove pnpm-lock.yaml and node_modules folder and then run `npm install`
+|:-----------------------| :----------------------------------------------- |
+| `npm install`          | Installs dependencies                            |
+| `npm dev`             | Starts local dev server at `localhost:4321`      |
+| `npm build`           | Build your production site to `./dist/`          |
+| `npm preview`         | Preview your build locally, before deploying     |
+| `npm astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm astro -- --help` | Get help using the Astro CLI                     |
 
 ### 🚀 Project Structure
 
