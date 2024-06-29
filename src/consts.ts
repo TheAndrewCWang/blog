@@ -35,5 +35,4 @@ export const PAGES: Page[] = [
 export const DEFAULT_LOCALE = "en";
 export const LOCALES = {
 	en: "en", // the `defaultLocale` value must present in `locales` keys
-	it: "it",
 };
