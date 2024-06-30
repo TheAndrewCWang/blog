@@ -58,9 +58,10 @@ So where did the money come from originally? Institutional investors who have to
 funds, and family funds. Instead of putting money into truly inventive people and companies, it's instead put into a
 pyramid scheme.
 
-Everyone in a pyramid scheme profits but is also a victim. When someone buys in, they're trapped into they can sell
-to the next victim. But the retail investors, the last in the chain, might not be victims with some profiting, some
-losing. The real victims are those putting money into the original funds funneling money into the scheme.
+Everyone in a pyramid scheme profits but is also a victim. When someone buys in, they're trapped into waiting to sell
+to the next victim. But the retail investors, the last in the chain, arguably might not be victims as some profit and
+some lose. No, the real victims are those putting money into the original funds funneling money into the scheme: those
+are teachers, retirees, entire nations.
 
 Venture capitalists have high management and carry fees. VCs, even if they completely fail, make money by taking 2%
 management fees from their funds' total value and 20% of the profits. This is why VCs are incentivized to raise more
@@ -76,8 +77,9 @@ The true story is that most venture capitalists network into the best deals as c
 interviewing and investing in the best founders. Early stage venture capitalists don't look for bangers. They look for
 several companies that might seem promising and selling to the next victim in the pyramid scheme.
 
-They're incentivized in scamming the next victim in the scheme and growing their fund's assets to scalp their management
-fees. They're not incentivized to make profits or find highly profitable companies.
+They're incentivized in scamming the next victim in the scheme for profit and growing their fund's assets to scalp
+their management fees boosting their salary. They're not incentivized to find highly profitable companies; any company
+works as many of their investments, counter to the original hypothesis, will reach the next round.
 
 ## The entire chain from startups to VCs to LPs is a pyramid scheme
 
