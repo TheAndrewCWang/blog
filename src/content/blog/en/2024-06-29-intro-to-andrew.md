@@ -57,7 +57,7 @@ example of urban planning in the US that was built specifically to cater towards
 place to test this is Detroit. Detroit is tearing down 140,000 abandoned homes. This is new ground for experimenting
 infrastructure in a sandbox where economic activity still thrives. A sandbox enables planners to shape how the residents
 view its city and thus each other. Environments affect how people act, from psychological bureaucracies to
-physically demanding communities. 
+physically demanding communities.
 
 If Detroit were to cater to innovators, how do we make living as easy as possible to make innovation splurge?
 
@@ -70,10 +70,10 @@ or learning a new skill, but also reduces the cost of food through bulk goods pu
 
 ## Status Symbols
 
-Venture capital is a pyramid scheme. Startup world hype like AI/LLMs is fundamentally software making the world
-slightly more efficient; what progresses humanity is new hardware and infrastructure techniques. Society will
-always need to balance invention with short term self-interest, i.e. money, but society must refocus on a centralized
-goal and concentrated energy in order to leap.
+[Venture capital is a pyramid scheme](/blog/2024-06-30-venture-capital-is-a-pyramid-scheme/). Startup world hype like
+AI/LLMs is fundamentally software making the world slightly more efficient; what progresses humanity is new hardware
+and infrastructure techniques. Society will always need to balance invention with short term self-interest, i.e. money,
+but society must refocus on a centralized goal and concentrated energy in order to leap.
 
 ## Unhinged thoughts
 
