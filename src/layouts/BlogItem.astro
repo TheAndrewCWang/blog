@@ -6,7 +6,7 @@ import Title from "@src/components/blog/BlogHeader.astro";
 import Comments from "@src/components/blog/Comments.astro";
 
 type Props = CollectionEntry<"blog">["data"];
-
+const fileName = Astro.request.url.split("/").filter(Boolean).slice(-1)[0];
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props as Props;
 ---
 
@@ -17,7 +17,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props as P
 		</div>
 		<div class="prose mx-auto max-w-screen-md space-y-4 px-4 m-0 bg-stone-50 p-0 text-stone-800 transition-all duration-300 dark:bg-stone-800 dark:text-stone-50">
 			<div class="space-y-4 text-center">
-				<Title pubDate={pubDate} updatedDate={updatedDate} name={`title-${title}`} class="m-0 mb-2">{title}</Title>
+				<Title pubDate={pubDate} updatedDate={updatedDate} name={`title-${title}`} class="m-0 mb-2 dark:text-stone-50">{title}</Title>
+				<a class="dark:text-stone-50" target="_blank" href=`https://github.com/TheAndrewCWang/blog/commits/main/src/content/blog/en/${fileName}.md`>
+					Edit History
+				</a>
 				<hr />
 			</div>
 			<slot />
