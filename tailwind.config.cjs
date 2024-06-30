@@ -39,7 +39,10 @@ module.exports = {
 			},
 		},
 	},
-	plugins: [require.resolve("prettier-plugin-astro")],
+	plugins: [
+		require.resolve("prettier-plugin-astro"),
+		require('@tailwindcss/typography'),
+	],
 	overrides: [
 		{
 			files: "*.astro",
