@@ -91,6 +91,10 @@ If you use cloudflare pages you can follow this guide https://github.com/i40west
 
 If you use netlify it's actually easier, you will need to change in the file `astro.config.mjs` NetlifyCMS config `config.backend.name` to git-gateway. (See https://decapcms.org/docs/git-gateway-backend/#git-gateway-with-netlify for more info)
 
+### Giscus Comment Section
+
+https://giscus.app/
+
 ### 👀 Want to learn more?
 
 Check out [Astro documentation](https://docs.astro.build) or jump into Astro [Discord server](https://astro.build/chat).

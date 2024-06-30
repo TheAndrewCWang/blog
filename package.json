@@ -1,16 +1,16 @@
 {
-	"name": "create-astro-starter",
+	"name": "blog",
 	"type": "module",
 	"version": "0.13.4",
-	"author": "Giulio Zanchetta",
-	"description": "Astro starter template with tailwind, alpinejs, localization, blog, CMS, and comments",
-	"license": "MIT",
+	"author": "Andrew Chen Wang",
+	"description": "Andrew's Personal Blog",
+	"license": "Proprietary",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zankhq/astro-starter.git"
+		"url": "https://github.com/TheAndrewCWang/blog.git"
 	},
-	"bugs": "https://github.com/zankhq/astro-starter/issues",
-	"homepage": "https://github.com/zankhq/astro-starter",
+	"bugs": "https://github.com/TheAndrewCWang/blog/issues",
+	"homepage": "https://github.com/TheAndrewCWang/blog",
 	"files": [
 		"*"
 	],
