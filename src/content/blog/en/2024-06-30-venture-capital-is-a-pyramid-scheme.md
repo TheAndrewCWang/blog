@@ -30,8 +30,7 @@ First, founders will need early stage investors; when ideas aren't entirely prov
 tolerance are required. Founders will get a lead investor who will seek co-investors to fill the round. Getting
 co-investors reduces the risk for the lead investor.
 
-Secondly, after a startup gets to around Series B, growth-stage investors will buy out more of the company but also
-much of the early-stage investors' shares. This is how early-stage investors profit.
+Secondly, after a startup gets to around Series B, growth-stage investors will buy out more of the company.
 
 Finally -- again the company isn't profitable -- the company goes public or is acquired. If the company goes public/IPO,
 the company will most likely crash. A lot of startups have grand engineered visions but are mostly sales teams propping
@@ -75,11 +74,15 @@ financial crises.
 
 The true story is that most venture capitalists network into the best deals as co-investors and aren't interested in
 interviewing and investing in the best founders. Early stage venture capitalists don't look for bangers. They look for
-several companies that might seem promising and selling to the next victim in the pyramid scheme.
+companies that might will end up at Series A so that they can raise their next round, getting a larger pool of money to
+scalp management fees.
 
-They're incentivized in scamming the next victim in the scheme for profit and growing their fund's assets to scalp
-their management fees boosting their salary. They're not incentivized to find highly profitable companies; any company
-works as many of their investments, counter to the original hypothesis, will reach the next round.
+They're not incentivized to find highly profitable companies; any company works as many of their investments, counter
+to the original hypothesis, will reach the next round. The lost money from the failed investments is made up by the few,
+per the hypothesis, but LPs will never see the profits for 10 years. Meanwhile, funds are raised every few years.
+A VC could be a complete failure, but later investors won't know until the first fund fails after a decade. The only
+proof that a VC is winning is false proof that companies that grow to Series B are successful, when in reality, they
+can't actually sell their shares.
 
 ## The entire chain from startups to VCs to LPs is a pyramid scheme
 
