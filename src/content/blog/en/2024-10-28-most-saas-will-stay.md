@@ -125,10 +125,23 @@ optimizing clients for efficiency and automation). That is a fundamental tenet o
 
 5. People are creative
 
-Solutions to the "preventing itself from being marked as spam" is tough for people to already do.
+Solutions to the "preventing emails from being marked as spam" problem is tough for people to already come up with.
 Innovative solutions like [instantly.ai](https://instantly.ai) was built from years of experience
 and deep understanding of a market. This is something Gen AI just can't do without a lot of machine
 learning on not just the internet but people's literal brains -- and all of it.
+
+6. AI allows customers to customize products
+
+Customers want to customize products to their likings, maybe with AI, maybe by ranting to a CSM,
+but the base product comes from someone deeply thinking about the problem and how to address it
+most effectively.
+
+The most AI aligned argument is that AI will replace SaaS apps because businesses will make their own
+solution in no time with AI and customized to their liking. The existing products on the market are
+not made up by customers; they're made by product thinkers. If you need contextual reference, that's
+the entire "Steve Jobs" argument of what do customers actually know. Product owners don't ask "what
+do you, the customer want?" Owners ask questions that lead to insights guiding them to make the dream
+product that is efficient and tied into a business's core objective in an integrated platform.
 
 ## Conclusion
 
